@@ -6,6 +6,10 @@ function App() {
       hello
       <input type="text" />
       <button>Click</button>
+      <button>Click</button>
+      <button>Click</button>
+      <button>Click</button>
+      <button>Click</button>
     </div>
   );
 }
